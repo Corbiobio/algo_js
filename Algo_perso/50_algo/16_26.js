@@ -80,15 +80,16 @@
 //         current_num++
 //     }
 
-//     console.log(current_num);
+//     return current_num
 // }
-// prime_upper_n(56156)
+// console.log(prime_upper_n(56156));
+
 
 //20
 //??????
 
 //21
-//?????? 
+//??????
 
 //22
 // let current_array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
