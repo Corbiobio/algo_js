@@ -224,6 +224,6 @@
 
 //41
 // function distance_between_two_points(cooronate1, cooronate2) {
-    // return [cooronate1[0] - cooronate2[0], cooronate1[1] - cooronate2[1]]
+//     return Math.sqrt(Math.pow(cooronate2[0] - cooronate1[0], 2) + Math.pow(cooronate2[1] - cooronate1[1], 2))
 // }
-// console.log(distance_between_two_points([5, 3], [-5, 3]));
+// console.log(distance_between_two_points([3, 4], [6, 2]));

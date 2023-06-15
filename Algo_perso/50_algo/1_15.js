@@ -1,5 +1,7 @@
-//1
+// https://codeguppy.com/site/download/50_coding_challenges.pdf
+// ressource
 
+//1
 // for (let i = 1; i <= 10; i++) {
 //     console.log(i);
 // }
